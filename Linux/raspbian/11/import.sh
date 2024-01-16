@@ -2,7 +2,7 @@
 # Copyright (c) 2024 Roger Brown.
 # Licensed under the MIT License.
 
-IMGFILE="$HOME/images/2022-09-06-raspios-bullseye-armhf-lite.img"
+IMGFILE="$HOME/images/2023-05-03-raspios-bullseye-armhf-lite.img"
 
 ls -ld "$IMGFILE"
 

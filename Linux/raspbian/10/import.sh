@@ -2,7 +2,7 @@
 # Copyright (c) 2024 Roger Brown.
 # Licensed under the MIT License.
 
-IMGFILE="$HOME/images/2020-02-13-raspbian-buster-lite.img"
+IMGFILE="$HOME/images/2021-05-07-raspios-buster-armhf-lite.img"
 
 ls -ld "$IMGFILE"
 

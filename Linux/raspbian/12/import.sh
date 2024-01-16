@@ -2,7 +2,7 @@
 # Copyright (c) 2024 Roger Brown.
 # Licensed under the MIT License.
 
-IMGFILE="$HOME/images/2023-10-10-raspios-bookworm-armhf-lite.img"
+IMGFILE="$HOME/images/2023-12-11-raspios-bookworm-armhf-lite.img"
 
 ls -ld "$IMGFILE"
 
